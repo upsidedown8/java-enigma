@@ -1,2 +1,2 @@
 # java-enigma
- Enigma implemented in java
+ An M3 Enigma machine implemented in java
